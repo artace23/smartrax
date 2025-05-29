@@ -1,0 +1,25 @@
+[debug] [2024-09-22T11:24:19.405Z] ----------------------------------------------------------------------
+[debug] [2024-09-22T11:24:19.409Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ace\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-22T11:24:19.410Z] CLI Version:   13.18.0
+[debug] [2024-09-22T11:24:19.410Z] Platform:      win32
+[debug] [2024-09-22T11:24:19.410Z] Node Version:  v18.14.0
+[debug] [2024-09-22T11:24:19.411Z] Time:          Sun Sep 22 2024 19:24:19 GMT+0800 (Taipei Standard Time)
+[debug] [2024-09-22T11:24:19.412Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-22T11:24:19.423Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-22T11:24:19.424Z] > authorizing via signed-in user (artace23@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Personal Development\capstone\smartrax
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
