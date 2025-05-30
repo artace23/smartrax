@@ -17,8 +17,8 @@ export default function SignUp({ navigation }) {
   };
 
   const sendVerificationEmail = async (email, code) => {
-    const API_KEY = 'dc6f26ac3b21ea7ac053ee2100293176';
-    const API_SECRET = 'e01635d47a15a38d67069bd046d97f9b';
+    const API_KEY = 'API_KEY';
+    const API_SECRET = 'API_SECRET_KEY';
 
     const mailData = {
       Messages: [
