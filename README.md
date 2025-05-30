@@ -4,6 +4,7 @@ A capstone group project designed to deliver an intelligent and user-friendly bi
 
 > 🏆 **Presented at Hong Kong CCCIS 5th Conference (2025)**
 
+![smartrax_project](https://github.com/user-attachments/assets/54a9eca6-d100-4966-988e-727bc219c4d5)
 ---
 
 ## 📱 Features
@@ -80,12 +81,6 @@ The backend uses **PHP** and **MySQL** for server-side logic and database manage
 * PHP handles routes for ride logs, user profiles, and wallet transactions.
 * Firebase handles secure authentication.
 * MySQL stores user data, ride history, and bike status.
-
----
-
-## 📸 Screenshots
-
-![smartrax_project](https://github.com/user-attachments/assets/54a9eca6-d100-4966-988e-727bc219c4d5)
 
 ---
 
