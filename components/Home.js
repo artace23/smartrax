@@ -26,7 +26,7 @@ export default function MapScreen({ navigation, route }) {
   const [isInsidePolygon, setIsInsidePolygon] = useState(true);
 
 
-  const GOOGLE_MAPS_APIKEY = 'GOOGLE_MAPS_API_KEY'
+  const GOOGLE_MAPS_APIKEY = 'GOOGLE_MAPS_API_KEY___'
 
 
   const getBikeGpsData = async () => {
