@@ -102,7 +102,7 @@ This project was proudly presented at:
 
 ## 📄 License
 
-This project is licensed under the [MIT License].
+This project is licensed under the **MIT License**.
 
 ```
 Copyright (c) 2025 Art III Dela Cruz
